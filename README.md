@@ -4,7 +4,7 @@
 
 Interested in Both Frontend (with React.js primarily) and Backend Development (yeah, Node.js and Python), currently following _Agile Paradigm_ for most of my Personal and off course, professional projects.
 
-⚡ Favorite Weapon - Python <br>
+⚡ Favorite Weapon - Python3 <br>
 ⚡ Favorite Editor - VScode
 -  Currently learning _ELK Stack, AWS_.
 <!-- - 🔭 Currently working on React, <!-- @Material-UI (core, lab, icons, pickers, types) --> 
