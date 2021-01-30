@@ -36,9 +36,10 @@ Some of my College Projects includes,
  <br>
  Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. Feel free to use. https://page-views.glitch.me
  
- Starts: 30 Jan 21🤩
   
   ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)
+  
+   Starts: 30 Jan 21🤩
  <!-- #### Other Projects -->
 
 
