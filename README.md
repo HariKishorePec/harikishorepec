@@ -29,11 +29,9 @@ Some of my College Projects includes,
 
 
 #### Socials
-
-[LinkedIn](https://www.linkedin.com/in/hari-kishore-pec/)
-
-<i class="fa fa-linkedin-square" aria-hidden="true"></i>
-
+<a href="https://www.linkedin.com/in/hari-kishore-pec/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="80" />
+ </a>
  <!-- #### Other Projects -->
 
 
