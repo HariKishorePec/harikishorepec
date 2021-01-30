@@ -33,8 +33,8 @@ Some of my College Projects includes,
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="80" />
  </a>
  
- <br/>
- Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. Feel [free to use](https://page-views.glitch.me)
+ <br>
+ Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. Feel free to use. https://page-views.glitch.me
  
  Starts: 30 Jan 21🤩
   
