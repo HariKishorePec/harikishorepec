@@ -34,7 +34,7 @@ Some of my College Projects includes,
  </a>
   <br><br>
   
-  [![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)](https://page-views.glitch.me) <br>
+  ![![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)](https://page-views.glitch.me) <br>
   Starts: 30 Jan 21🤩
 
  Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. Feel free to use. https://page-views.glitch.me
