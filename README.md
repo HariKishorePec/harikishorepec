@@ -36,9 +36,7 @@ Some of my College Projects includes,
   
   ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec) <br>
   Starts: 30 Jan 21🤩
-  
 
-   <br>
  Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. Feel free to use. https://page-views.glitch.me
  <br>
  <!-- #### Other Projects -->
