@@ -34,7 +34,7 @@ Some of my College Projects includes,
  </a>
  
  <br/>
- Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. [Feel free to use](https://page-views.glitch.me)
+ Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. Feel [free to use](https://page-views.glitch.me)
  
  Starts: 30 Jan 21🤩
   
