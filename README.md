@@ -16,7 +16,7 @@ Interested in Both Frontend (with React.js primarily) and Backend Development (y
 - Backend: NodeJS, PHP,  Python
 - Python Libraries - NumPy, Pandas, Sci-Py, MatplotLib, BeautifulSoup, Selenium
 - NPM packages - Express, @Material-UI/core, react, axios, moment, chalk, bodybuilder, webpack
-- Others: REST APIs(Create and Consume), Oauth2.0, Swagger UI, Jest, Mocha, Docker, Kubernetes, EC2, ES6/7, Selenium, JSON, AJAX etc.
+- Others: REST APIs(Create and Consume), Oauth2.0, Swagger UI, Jest, Mocha, Docker, Kubernetes, EC2, ES6/7, Selenium, JSON, AJAX, Jupyter NoteBook etc.
 
 #### Projects
 
