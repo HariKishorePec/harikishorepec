@@ -6,7 +6,7 @@ Interested in Both Frontend (with React.js primarily) and Backend Development (y
 
 ⚡ Favorite Weapon - Python <br>
 ⚡ Favorite Editor - VScode
--  Currently learning _ELK Stack_.
+-  Currently learning _ELK Stack, AWS_.
 <!-- - 🔭 Currently working on React, <!-- @Material-UI (core, lab, icons, pickers, types) --> 
 
 #### Technologies Worked on
