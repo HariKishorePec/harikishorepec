@@ -12,7 +12,7 @@ Interested in Both Frontend (with React.js primarily) and Backend Development (y
 #### Technologies Worked on
 
 - Primary Technologies - React, Node, Typescript, Git, Docker, ES6, 
-- Frontend: React 16, Bootstrap 4/5, Flexbox(😍)
+- Frontend: React 16, Bootstrap 4/5, Flexbox(😍), CSS
 - Backend: NodeJS, PHP,  Python
 - Python Libraries - NumPy, Pandas, Sci-Py, MatplotLib, BeautifulSoup, Selenium
 - NPM packages - Express, @Material-UI/core, react, axios, moment, chalk, bodybuilder, webpack
