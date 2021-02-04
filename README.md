@@ -34,7 +34,7 @@ Some of my College Projects includes,
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="80" />
  </a>
 
-IM : [WhatsApp](api.whatsapp.com/send?phone=917004815015)
+IM : <a href="api.whatsapp.com/send?phone=917004815015">WhatsApp</a>
   <br><br>
   
   ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)<br>
