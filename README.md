@@ -30,12 +30,12 @@ Some of my College Projects includes,
 
 
 #### Socials
-<a href="https://www.linkedin.com/in/hari-kishore-pec/">
+<a href="https://www.linkedin.com/in/hari-kishore-pec/" style="display:inline-block;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="80" />
  </a>
-
-IM : <a href="https://api.whatsapp.com/send?phone=917004815015">WhatsApp</a>
-  <br><br>
+<a href="https://api.whatsapp.com/send?phone=917004815015">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1280px-WhatsApp.svg.png" alt="LinkedIn" width="40" />
+ </a>
   
   ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)<br>
   
