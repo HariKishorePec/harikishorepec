@@ -33,7 +33,8 @@ Some of my College Projects includes,
 <a href="https://www.linkedin.com/in/hari-kishore-pec/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="80" />
  </a>
-<a href="https://api.whatsapp.com/send?phone=917004815015">
+
+<a href="https://api.whatsapp.com/send?phone=917004815015&message=hi">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1280px-WhatsApp.svg.png" alt="LinkedIn" width="40" />
  </a>
   
