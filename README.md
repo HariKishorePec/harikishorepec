@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-CI/CD integrated site - [Deployment](https://harikishore.netlify.app/)
+
 #### I am Hari Kishore, A Student, a Developer (MERN Stack).
 
 Interested in Both Frontend (with React.js primarily) and Backend Development (yeah, Node.js and Python), currently following _Agile Paradigm_ for most of my Personal and off course, professional projects.
@@ -40,7 +40,9 @@ Some of my College Projects includes,
  </a>
   
   ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)<br>
-  
+ 
+ CI/CD integrated site - [Deployment](https://harikishore.netlify.app/)
+
   <!--
   Starts: 30 Jan 21🤩
 Additionally, For Visitors Count, Forked the repo and deployed on glitch, as open community contribution. Feel free to use. https://page-views.glitch.me
