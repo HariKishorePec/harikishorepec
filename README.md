@@ -38,7 +38,9 @@ Some of my College Projects includes,
 <a href="https://api.whatsapp.com/send?phone=917004815015&subject=hi">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1280px-WhatsApp.svg.png" alt="LinkedIn" width="40" />
  </a>
-  
+
+ <b>Email: </b> <a href="mailto:hari.kishore@icloud.com"> hari[dot]kishore[at]icloud[dot]com </a>
+
   ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)<br>
  
  CI/CD integrated site - [Deployment](https://harikishore.netlify.app/)
