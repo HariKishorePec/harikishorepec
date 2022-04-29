@@ -1,7 +1,11 @@
+
+
 ### Hi there 👋
 
 
 #### I am Hari Kishore, A Student, a Developer (MERN Stack).
+
+
 
 Interested in Both Frontend (with React.js primarily) and Backend Development (yeah, Node.js and Python), currently following _Agile Paradigm_ for most of my Personal and off course, professional projects.
 
@@ -44,6 +48,16 @@ Some of my College Projects includes,
   ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)<br>
  
  CI/CD integrated site - [Deployment](https://harikishore.netlify.app/)
+
+
+<a href="https://stackexchange.com/users/16454910"><img src="https://stackexchange.com/users/flair/16454910.png" width="208" height="58" alt="profile for kishore on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for kishore on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<!--
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hari-kishore-pec" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hari-kishore-pec?trk=profile-badge">Hari K.</a></div>
+  -->            
+
+
 
   <!--
   Starts: 30 Jan 21🤩
