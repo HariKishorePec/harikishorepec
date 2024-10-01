@@ -29,7 +29,12 @@ Interested in Both Frontend (with React.js primarily) and Backend Development (y
 Some of my College Projects includes,
 
 ##### College Website Renovation
-- Renovation of our College website. Contributed as _Frontend Lead_. Its a collaboration project that, not only taught how team works shapes you and your work, the great learning experience, but also, how important it becomes to decide the technology stacks you choose for a project. We built our site on Bootstrap 4, since Responsiveness was on our prime focus, as it lagged in our previous version. We built our own full CMS (Content Management System), for ease and maintainance of our site, which takes care of all functionality, like Faculty Registration, daily News and Notice Updates. Sources are private but, You might have a look [at here](https://cms.pec.edu)🙂.
+- Renovation of College Website -Contributed as frontend lead.
+
+As Frontend Lead, I contributed to the renovation of our college website through a collaborative project that enhanced my understanding of teamwork and technology selection. We used Bootstrap 4 to ensure responsiveness, addressing issues from the previous version. Additionally, we developed a comprehensive Content Management System (CMS) for easy maintenance, including features for faculty registration and daily updates. Further insights can be found here.
+
+ Sources are private but, You might have a look at [Demo here](https://cms.pec.edu)🙂.
+ 
 ##### ICON 2019
 - Website for Department Fest. This was my First Real Life project, that ignited spark of doing more of its kind. Had great learning experience. Again, a collaboration project with one of friends and classmate. Please [see here](https://github.com/HariKishorePec/ICON-WEBSITE#icon-website) for more.
 
