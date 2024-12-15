@@ -50,7 +50,7 @@ As Frontend Lead, I contributed to the renovation of our college website through
 
  <b>Email: </b> <a href="mailto:hari.kishore@icloud.com"> hari[dot]kishore[at]icloud[dot]com </a>
 
-  ![visitors](https://page-views.glitch.me/badge?page_id=harikishorepec.harikishorepec)<br>
+  ![Visitor Count](https://vbr.wocr.tk/badge?page_id=harikishorepec.harikishorepec&text=Visitors&lcolor=222222&color=ffc500&style=for-the-badge&logo=Github)<br>
  
  CI/CD integrated site - [Deployment](https://harikishore.netlify.app/)
 
